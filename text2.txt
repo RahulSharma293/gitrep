@@ -1,0 +1,1 @@
+To merge a specified commit into master, first discover its commit id. Use the log command to find the particular commit id.
